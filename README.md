@@ -27,7 +27,7 @@
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [getdata.finance](https://getdata.finance) every **Saturday, 8am UTC+0**; GitHub `1m` sample updated in sync
 
-> **Sample on GitHub** · `USOIL_1m.csv` (55,440 rows, `2026-07-07` -> `2026-09-02`, 4.03 MB). **Full archive on [getdata.finance](https://getdata.finance/datasets/usoil)** — **6,029,418** `1m` rows (full `1m`: 6,029,418), **11 timeframes**, `2008-09-10` -> `2026-09-02`.
+> **Sample on GitHub** · `USOIL_1m.csv` (55,440 rows, `2026-07-07` -> `2026-09-02`, 4.03 MB). **Full archive on [getdata.finance](https://getdata.finance/datasets/usoil)** — **6,029,418** `1m` rows (full `1m`: 5,981,180), **11 timeframes**, `2008-09-10` -> `2026-09-02`.
 
 ## Download sample
 
